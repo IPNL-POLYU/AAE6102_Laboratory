@@ -29,3 +29,8 @@
 # Executables
 *.out
 *.app
+
+# RTKLIB processed file
+*.pos
+*.trace
+*.kml
