@@ -34,4 +34,4 @@
 *.pos
 *.trace
 *.kml
-*.csv
+GNSS Data/Dynamic/*.csv
